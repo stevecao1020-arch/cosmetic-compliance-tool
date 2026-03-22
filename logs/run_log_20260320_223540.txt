@@ -1,0 +1,14 @@
+Run time: 2026-03-20 22:35:41
+AI enabled: True
+Model: qwen-plus
+Files:
+- ca_prohibited: C:\Users\Administrator\Desktop\CA&US成分审核\database\CA Hotlist Prohibited.xlsx
+- ca_restricted: C:\Users\Administrator\Desktop\CA&US成分审核\database\CA Hotlist Restricted.xlsx
+- cir: C:\Users\Administrator\Desktop\CA&US成分审核\database\CIR_Quick_Reference_Table 2025.xlsx
+- cfr_banned: C:\Users\Administrator\Desktop\CA&US成分审核\database\CFR禁用物质.xlsx
+- template: C:\Users\Administrator\Desktop\CA&US成分审核\template\Cosmetic_Compliance_Output_Template_v2.xlsx
+Counts:
+- client_records: 711
+- output_rows: 711
+- summary_rows: 38
+- fuzzy_rows: 0
